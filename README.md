@@ -6,9 +6,9 @@
     <span>Bruno Acioli</span>
 </h1>
 
-<p align="justify">Sou um entusiasta em tecnologias do mercado, Desenvolvedor Full-Stack com especialização em Python e Django. 
+<p align="justify">I am an enthusiast in market technologies, Full-Stack Developer with specialization in Python and Django. 
 <br>
- Apaixonado por musicas e tecnologia, alguns dos meus hobbies são jogos, assistir, ler e ir a academia.</p>
+ Passionate about music and technology, some of my hobbies are gaming, watching, reading and going to the gym.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
